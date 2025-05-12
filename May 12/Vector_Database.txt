@@ -1,0 +1,26 @@
+  VECTOR_DATABASE_NOTE
+========================
+ 
+ A vector database stores, manages and indexes high-dimensional vector data. 
+ Data points are stored as arrays of numbers called vectors, which are clustered based on similarity. 
+ This design enables low-latency queries, making it ideal for AI applications.
+ Vector databases are growing rapidly because they deliver the speed and performance needed for generative AI applications.
+ They are able to handle unstructured datasets.
+
+ Vector Databases Functions:
+   Vetor storage : Vector databases store the outputs of an embedding model algorithm, the vector embeddings.
+
+   Vector Indexing: Vector databases create indexes on vector embeddings for search functions.
+
+   Similarity search based on querying or prompting: When a user queries or prompts an AI model, the model computes an embedding of the query or prompt. 
+                                                     The database then calculates distances between query vectors and vectors stored in the index to return similar results.
+
+
+Advantages :
+ Speed and performance
+ Scalability
+ Lower cost of ownership
+ Data management
+ Flexibility
+ 
+

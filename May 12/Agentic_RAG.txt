@@ -1,0 +1,22 @@
+  Agentic_RAG_Note
+====================
+
+Agentic RAG is the use of AI agents to facilitate retrieval augmented generation (RAG).
+These systems add AI agents to the RAG pipeline to increase adaptability and accuracy.
+It goes beyond traditional RAG by introducing agents that can autonomously plan, execute, and adapt retrieval strategies, ultimately leading to more flexible and powerful applications. 
+
+-RAG :
+ Retrieval augmented generation is AI application that connects a generative AI model with an external knowledge base.
+ RAG enables LLMs to be more accurate in domain-specific contexts without needing fine-tuning. 
+
+-Agentic AI :
+ Agentic AI is a type of AI that can determine and carry out a course of action by itself
+
+-Working :
+ Agentic RAG works by incorporating one or more types of AI agents into RAG systems.
+
+-Benefits :
+ Increased Adaptability
+ Improved Accuracy
+ Enhanced Performance
+ Greater Flexibility
