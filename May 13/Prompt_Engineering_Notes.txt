@@ -1,0 +1,29 @@
+   PROMPT_ENGINEERING_NOTES
+==============================
+
+It is the process of crafting an instruction to be given on a generative AI model to produce the best possible outcome.
+Because GenAI models it requires detailed instructions to create high-quality and relevant output.
+Prompt:  A text describing the task that AI should perform.
+
+-Importance:
+ Prompt engineering jobs have increased significantly since the launch of generative AI.
+ Prompt engineers bridge the gap between end users and the large language model.
+
+-Techniques:
+ Chain-of-thought prompting : Technique that breaks down a complex question into smaller, logical parts that mimic a train of thought.
+ Tree-of-thought prompting : It prompts the model to generate one or more possible next steps.
+                             Then it runs the model on each possible next step using a tree search method.
+ Maieutic prompting : The model is prompted to answer a question with an explanation.
+                      Inconsistent explanation trees are pruned or discarded.
+ Complexity-based prompting : This technique involves performing several chain-of-thought rollouts.
+                              It chooses the rollouts with the longest chains of thought then chooses the most commonly reached conclusion.
+ Generated knowledge prompting : This technique involves prompting the model to first generate relevant facts needed to complete the prompt.
+ Least-to-most prompting : The model is prompted first to list the subproblems of a problem, and then solve them in sequence.
+ Self-refine prompting : In this technique, the model is prompted to solve the problem, critique its solution, and then resolve the problem considering the problem, solution, and critique.
+ Directional-stimulus prompting : This technique includes a hint or cue, such as desired keywords, to guide the language model toward the desired output.
+
+-Benefits:
+ Improved accuracy
+ Improved user experience
+ Greater developer control
+ Increased flexibility

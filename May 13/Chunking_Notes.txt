@@ -1,0 +1,22 @@
+  CHUNKING
+============
+Chunking refers to breaking down large pieces of information into smaller, manageable segments or "chunks".
+This technique is used in various contexts, including memory management, data transmission, and data processing.
+Chunking can improve performance, efficiency, and scalability by allowing computers to process or transmit data in smaller, more easily handled units.
+
+In the context of LLM chunking is the process of breaking down large pieces of text into smaller segments.
+It’s an essential technique that helps optimize the relevance of the content.
+
+-Chunking Methods :
+ Fixed-size chunking
+ Content-aware” Chunking
+ Sentence splitting
+ Recursive Chunking
+ Specialized chunking
+ Semantic Chunking
+-Benefits :
+ Improved Performance: Processing smaller chunks of data can lead to faster processing times and improved overall system performance. 
+ Enhanced Scalability: Chunking allows systems to handle larger amounts of data by breaking it down into manageable pieces. 
+ Simplified Management: Smaller chunks of data are easier to manage and organize. 
+ Better User Experience: In UX, chunking can improve readability and comprehension, making information easier to consume. 
+ Memory Efficiency: By grouping related data, chunking can help maximize memory usage. 
