@@ -1,0 +1,12 @@
+   Single-Agent RAG:
+==========================
+-A single agent handles the entire pipeline—querying, retrieving, and generating responses.
+-Simpler to implement and manage; suitable for straightforward tasks.
+- Limited scalability and flexibility; may struggle with complex tasks requiring diverse expertise.
+
+
+   Multi-Agent RAG:
+=========================
+-Multiple specialized agents collaborate, each handling specific components like retrieval, summarization, or validation.
+-Enhanced scalability, modularity, and robustness; agents can be tailored for specific tasks.
+-Increased complexity in coordination and communication among agents.
