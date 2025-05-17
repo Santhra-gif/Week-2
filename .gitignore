@@ -1,0 +1,48 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+.ven/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm IDE files
+.idea/
+
+# VS Code files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Others
+*.sqlite3
+*.log
